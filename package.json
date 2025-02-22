@@ -15,5 +15,8 @@
   "dependencies": {
     "fastify": "^5.2.1",
     "postgres": "^3.4.5"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.7"
   }
 }
